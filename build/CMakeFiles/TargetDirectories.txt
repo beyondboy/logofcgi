@@ -1,0 +1,1 @@
+/home/beyond_boy/logorec/logofcgi/build/CMakeFiles/simple.dir
